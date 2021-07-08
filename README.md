@@ -4,7 +4,7 @@
 
 I'm fairly new to the world of coding, but I really enjoy the creative process and migranes, so I'm here to stay!
 
-Check out my [portfolio] (https://portjoem.herokuapp.com/)
+Check out my portfolio! (https://portjoem.herokuapp.com/)
 
 
 - 2021 Graduate of Rutgers Coding Bootcamp
